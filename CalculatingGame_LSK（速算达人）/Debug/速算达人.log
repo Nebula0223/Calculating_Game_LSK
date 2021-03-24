@@ -1,0 +1,5 @@
+﻿  速算达人.cpp
+d:\个人\速算达人lsk\速算达人\速算达人.cpp(46): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+d:\个人\速算达人lsk\速算达人\速算达人.cpp(131): warning C4244: “=”: 从“time_t”转换到“double”，可能丢失数据
+d:\个人\速算达人lsk\速算达人\速算达人.cpp(694): warning C4715: “del_question”: 不是所有的控件路径都返回值
+  速算达人.vcxproj -> D:\个人\速算达人LSK\Debug\速算达人.exe
